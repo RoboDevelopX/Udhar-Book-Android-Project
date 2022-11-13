@@ -36,7 +36,3 @@ Open Android Studio > Press Shift + F10
 -	<b>Path</b>  
 			SnapShot/
 
-<h3 align="center"> <b>Copyright & Powered By</b> </h3>
-<p align="right"><b>Smit Shah</br>smitshah22050602@gmail.com</br>8849364239</br>https://www.linkedin.com/in/smit-shah-60823514a</b></p>
-
-<h3 align="center"> <b>Thank You..!!! :)</b> </h3>
